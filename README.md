@@ -13,7 +13,8 @@ The refresh rate can reach up to 10Hz for video playback.
 
 ### Function Demonstration
 [![Demo Video](images/video_cover.jpg)](https://github.com/excezon/portable-lcd-driver-board/raw/main/display_video.mp4)
-https://www.bilibili.com/video/BV1Br93BaEWx/
+
+Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 
 ## Key Features
 - 2.8" SPI LCD, 320×240 resolution，10Hz
