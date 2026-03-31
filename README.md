@@ -9,7 +9,7 @@ The refresh rate can reach up to 10Hz for video playback.
 
 ## Demo & Real Product
 ### Real Device
-![Device Real Shot](images/real_device.jpg)
+![Device Real Shot](https://github.com/excezon/portable-lcd-driver-board/blob/main/display_image.mp4)
 
 ### Function Demonstration
 [![Demo Video](images/video_cover.jpg)](https://www.bilibili.com/你的视频链接)
