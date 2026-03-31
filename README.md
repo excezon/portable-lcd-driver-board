@@ -9,7 +9,7 @@ The refresh rate can reach up to 10Hz for video playback.
 
 ## Demo & Real Product
 ### Real Device
-![Device Real Shot](https://github.com/excezon/portable-lcd-driver-board/raw/main/display_image.png)
+![Device Real Shot](https://github.com/excezon/portable-lcd-driver-board/raw/main/display_image.jpg)
 
 ### Function Demonstration
 [![Demo Video](images/video_cover.jpg)](https://github.com/excezon/portable-lcd-driver-board/raw/main/display_video.mp4)
@@ -24,11 +24,10 @@ The refresh rate can reach up to 10Hz for video playback.
 
 ## Hardware Preview
 ### PCB Design
-![PCB Top View](images/pcb_top.jpg)
-![PCB Bottom View](images/pcb_bottom.jpg)
-
+![PCB Top View](https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_bottom_layer.png)
+![PCB Bottom View](https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_top_layer.png)
 ### Schematic Diagram
-![Schematic](images/schematic.jpg)
+![Schematic]((https://github.com/excezon/portable-lcd-driver-board/raw/main/Schematic.png))
 
 ## Technical Stack
 - Hardware: STM32, SPI LCD, TF Card, USB-C, Li-ion power
