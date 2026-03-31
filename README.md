@@ -43,4 +43,4 @@ The refresh rate can reach up to 10Hz for video playback.
 
 ## Related Tool
 media2rgb565 - Image & video to RGB565 converter
-https://github.com/你的用户名/media2rgb565
+[https://github.com/excezon/media2rgb565](https://github.com/excezon/media2rgb565)
