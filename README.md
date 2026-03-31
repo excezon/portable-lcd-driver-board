@@ -13,13 +13,14 @@ The refresh rate can reach up to 10Hz for video playback.
 
 ### Function Demonstration
 [![Demo Video](images/video_cover.jpg)](https://github.com/excezon/portable-lcd-driver-board/raw/main/display_video.mp4)
+https://www.bilibili.com/video/BV1Br93BaEWx/
 
 ## Key Features
-- 2.8" SPI LCD, 320×240 resolution
-- STM32 embedded driver development
-- TF (MicroSD) card media playback
+- 2.8" SPI LCD, 320×240 resolution，10Hz
+- Powered by STM32F401RCT6
+- Play image & video from TF (MicroSD) card
+- Touchscreen compatible
 - USB-C & battery dual power design
-- Custom PCB hardware design
 - Self-developed PC tool for media-to-RGB565 conversion
 
 ## Hardware Preview
@@ -28,17 +29,6 @@ The refresh rate can reach up to 10Hz for video playback.
 ![PCB Bottom View](https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_top_layer.png)
 ### Schematic Diagram
 ![Schematic](https://github.com/excezon/portable-lcd-driver-board/raw/main/Schematic.png)
-
-## Technical Stack
-- Hardware: STM32, SPI LCD, TF Card, USB-C, Li-ion power
-- Embedded: C language, Keil MDK, LCD driver, FATFS file system
-- PC Tool: Python, image/video processing, RGB565 format conversion
-- PCB Design: LCSC EDA, schematic & layout design
-
-## Project Structure (Brief)
-- Firmware: STM32 driver for LCD & TF card playback
-- Hardware: Custom 2-layer PCB design
-- Tool: Python and keil
 
 ## Related Tool
 media2rgb565 - Image & video to RGB565 converter
