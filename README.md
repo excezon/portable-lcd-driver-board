@@ -39,6 +39,7 @@ Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 <div align="center">
 <img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_top_layer.png" alt="driver_board" width="50%">
 </div>
+
 ### Schematic Diagram
 <div align="center">
 <img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/Schematic.png" alt="driver_board" width="50%">
