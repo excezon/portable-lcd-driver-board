@@ -31,6 +31,18 @@ Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 - USB-C & battery dual power design
 - Self-developed PC tool for media-to-RGB565 conversion
 
+## Key Features
+            RGB565                     RGB565
+
+TF Card ==============>    STM32   ==============>   LCD
+
+             DMA            ^         SPI
+
+                            ||
+ 
+                            ||
+                       Touch board
+
 ## Hardware Preview
 ### PCB Design
 <div align="center">
