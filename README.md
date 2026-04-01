@@ -37,9 +37,7 @@ Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
    TF Card ==============>    STM32   ==============>   LCD
 
              DMA            ^         SPI
-
                             ||
- 
                             ||
                        Touch board
 
