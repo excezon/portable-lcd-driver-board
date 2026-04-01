@@ -32,12 +32,27 @@ Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 - Self-developed PC tool for media-to-RGB565 conversion
 
 ## Key Features
-            RGB565                     RGB565
-   TF Card ==============>    STM32   ==============>   LCD
-             DMA            ^         SPI
-                            ||
-                            ||
-                       Touch board
+
+```mermaid
+flowchart TD
+    %% 顶部两个RGB565
+    A[RGB565] & B[RGB565]
+    
+    %% 数据流：TF Card → STM32 → LCD
+    C[TF Card] ==> D[STM32] ==> E[LCD]
+    
+    %% 硬件接口：DMA/SPI → 触控板
+    F[DMA] & G[SPI]
+    D -.^.-> F
+    D -.^.-> G
+    F --||--> H[Touch board]
+    G --||--> H
+    
+    %% 布局调整，让结构和原图一致
+    linkStyle 0,1 stroke-width:3px
+    style A,B fill:#f8f9fa,stroke:#f8f9fa
+    style C,D,E fill:#f8f9fa,stroke:#f8f9fa
+    style F,G,H fill:#f8f9fa,stroke:#f8f9fa
 
 ## Hardware Preview
 ### PCB Design
