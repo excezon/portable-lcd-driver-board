@@ -7,18 +7,18 @@ This project is a compact portable display driver system.
 It uses an STM32 MCU to drive a 2.8-inch SPI LCD (320x240), reads images and videos from TF card, and supports dual power supply: USB-C and lithium battery.
 The refresh rate can reach up to 10Hz for video playback.
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/driver_board.jpg" alt="driver_board" width="50%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/assets/driver_board.jpg" alt="driver_board" width="50%">
 </div>
 
 ## Demo & Real Product
 ### Real Device
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/display_image.jpg" alt="driver_board" width="50%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/assets/display_image.jpg" alt="driver_board" width="50%">
 </div>
 
 ### Function Demonstration
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/display_video.mp4" alt="driver_board" width="50%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/assets/display_video.mp4" alt="driver_board" width="50%">
 </div>
 
 Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
@@ -33,21 +33,21 @@ Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 
 ## Work Flow
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/Work_flow.png" alt="driver_board" width="100%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/assets/Work_flow.png" alt="driver_board" width="100%">
 </div>
 
 ## Hardware Preview
 ### PCB Design
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_top_layer.png" alt="driver_board" width="50%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/assets/PCB_top_layer.png" alt="driver_board" width="50%">
 </div>
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_bottom_layer.png" alt="driver_board" width="50%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/assets/PCB_bottom_layer.png" alt="driver_board" width="50%">
 </div>
 
 ### Schematic Diagram
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/Schematic.png" alt="driver_board" width="50%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/assets/Schematic.png" alt="driver_board" width="50%">
 </div>
 
 ## Related Tool
