@@ -12,10 +12,14 @@ The refresh rate can reach up to 10Hz for video playback.
 
 ## Demo & Real Product
 ### Real Device
-![Device Real Shot](https://github.com/excezon/portable-lcd-driver-board/raw/main/display_image.jpg)
+<div align="center">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/display_image.jpg" alt="driver_board" width="50%">
+</div>
 
 ### Function Demonstration
-[![Demo Video](images/video_cover.jpg)](https://github.com/excezon/portable-lcd-driver-board/raw/main/display_video.mp4)
+<div align="center">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/display_video.mp4" alt="driver_board" width="50%">
+</div>
 
 Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 
@@ -29,10 +33,16 @@ Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 
 ## Hardware Preview
 ### PCB Design
-![PCB Top View](https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_bottom_layer.png)
-![PCB Bottom View](https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_top_layer.png)
+<div align="center">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_bottom_layer.png" alt="driver_board" width="50%">
+</div>
+<div align="center">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/PCB_top_layer.png" alt="driver_board" width="50%">
+</div>
 ### Schematic Diagram
-![Schematic](https://github.com/excezon/portable-lcd-driver-board/raw/main/Schematic.png)
+<div align="center">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/Schematic.png" alt="driver_board" width="50%">
+</div>
 
 ## Related Tool
 media2rgb565 - Image & video to RGB565 converter
