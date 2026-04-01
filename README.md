@@ -71,7 +71,7 @@ After power-up, the device:
 </div>
 
 ## Project Value
-This project is a strong embedded portfolio piece that demonstrates practical engineering capability in:
+This project highlights several notable aspects of embedded system design, including:
 - STM32 embedded firmware development
 - SPI LCD driver implementation
 - TF card file access and media streaming
