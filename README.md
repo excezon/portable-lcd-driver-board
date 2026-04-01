@@ -33,7 +33,7 @@ Online video: https://www.bilibili.com/video/BV1Br93BaEWx/
 
 ## Work Flow
 <div align="center">
-<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/work_flow.mp4" alt="driver_board" width="50%">
+<img src="https://github.com/excezon/portable-lcd-driver-board/raw/main/work_flow.png" alt="driver_board" width="50%">
 </div>
 
 ## Hardware Preview
